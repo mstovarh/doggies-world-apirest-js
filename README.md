@@ -12,9 +12,7 @@ Creado con: <a>https://favicon.io/favicon-generator/</a>
 
 ## ✅Previsualización de la pagina
 
-<a>https://mstovarh.github.io/async-landing/</a>
-
-
+![image](https://github.com/mstovarh/doggies-world-apirest-js/assets/107591274/08688f19-205a-4155-99ec-b5779a00562c)
 
 ## 📌Estado del proyecto
 
